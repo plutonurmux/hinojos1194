@@ -63,7 +63,7 @@
 
 ---
 
-<a href="https://app.daily.dev/kevinhinojos"><img src="https://api.daily.dev/devcards/8e68684b22f34433b05a58a026a6de3a.png?r=6wy" width="400" alt="Kevin Hinojos's Dev Card"/></a>
+<a href="https://app.daily.dev/kevinhinojos"><img src="https://api.daily.dev/devcards/8e68684b22f34433b05a58a026a6de3a.png?r=6wy" width="400" alt="Kevin Hinojos's Dev Card"/></a><br />
 <a href="https://app.daily.dev/kevinhinojos"><img src="https://api.daily.dev/devcards/8e68684b22f34433b05a58a026a6de3a.png?r=5fj" width="400" alt="Kevin Hinojos's Dev Card"/></a>
   
 <p align="right" > Created with 🧡 by <a href="https://github.com/hinojos1194">Kevin Hinojos</a></p>
