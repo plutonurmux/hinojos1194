@@ -62,10 +62,10 @@
 <br>
 
 ---
-<div class="margin: auto">
-<a class="display: inline" href="https://app.daily.dev/kevinhinojos"><img src="https://api.daily.dev/devcards/8e68684b22f34433b05a58a026a6de3a.png?r=6wy" width="400" alt="Kevin Hinojos's Dev Card"/></a>
-<a class="display: inline" href="https://app.daily.dev/kevinhinojos"><img src="https://api.daily.dev/devcards/8e68684b22f34433b05a58a026a6de3a.png?r=5fj" width="400" alt="Kevin Hinojos's Dev Card"/></a>
-</div>
+// <div class="margin: auto">
+// <a class="display: inline" href="https://app.daily.dev/kevinhinojos"><img src="https://api.daily.dev/devcards/8e68684b22f34433b05a58a026a6de3a.png?r=6wy" width="400" alt="Kevin Hinojos's Dev Card"/></a>
+// <a class="display: inline" href="https://app.daily.dev/kevinhinojos"><img src="https://api.daily.dev/devcards/8e68684b22f34433b05a58a026a6de3a.png?r=5fj" width="400" alt="Kevin Hinojos's Dev Card"/></a>
+// </div>
   
 <p align="right" > Created with 🧡 by <a href="https://github.com/hinojos1194">Kevin Hinojos</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="hinojos1194" /> </p>
