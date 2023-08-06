@@ -1,31 +1,3 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Kevin Hinojos</h1>
-<p align="center">
-  <!-- <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a> -->
-    「 I am a frontend web application developer 」
-</p>
-
-<p align="center">
-  <em>
-    Myself <b>Kevin Hinojos</b>, a final year <b>Computer Science</b> graduate from <b>The University of Texas</b>, Tyler, Texas.
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Frontend Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
-  <br>
-  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
-</p>
-
-<h3>Little facts about me 🧑</h3>
-
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Frontend Web and UI/UX projects.
-- ❤️ I do love to writing code and learning new features.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Football.
-- 📧 Reach me anytime: kevin.hinojos.us@gmail.com.
-<br>
-
----
-
-<details>
 <summary>
   ✨ Tech stack currently using:
 </summary>
@@ -52,15 +24,3 @@
 <summary>
   🌱 Looking forward to learn:
 </summary>
-   <br>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<!-- <code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code> -->
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-</details>
-<br>
-
-  
-<p align="right" > Created with 🧡 by <a href="https://github.com/hinojos1194">Kevin Hinojos</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="hinojos1194" /> </p>
